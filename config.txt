@@ -1,0 +1,3 @@
+name = Vlado
+size = over 9999
+email = bg@abv.email
