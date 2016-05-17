@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 WeDoNotNeedConfigFile
-=======
 
 string name = "Pesho";
 int age = 21;
 Console.WriteLine("" + name + " " + age);
 
->>>>>>> origin/master
