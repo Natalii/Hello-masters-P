@@ -2,7 +2,7 @@
 WeDoNotNeedConfigFile
 
 string name = "Pesho";
-int age = 88;
+int age = over 9999;
 Console.WriteLine("" + name + " " + age);
 
 new line
