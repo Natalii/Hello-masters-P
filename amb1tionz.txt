@@ -3,6 +3,7 @@ Hello :)
 <html>
 <body>
 <p1>HELLO</p1>
+<p2>How'r u doin'?</p2>
 </body>
 </html>
-I az pisha nqkvi gluposti
+<<<<<<< HEAD
