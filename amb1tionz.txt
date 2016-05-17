@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello :)
 <!doctype html>
 <html>
@@ -6,3 +7,6 @@ Hello :)
 <p2>How'r u doin'?</p2>
 </body>
 </html>
+=======
+Hello :)
+>>>>>>> parent of f274621... Changes to txt file
