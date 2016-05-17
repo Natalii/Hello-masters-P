@@ -1,0 +1,1 @@
+name = Pesho ; age= 21; bool programmer = true;
