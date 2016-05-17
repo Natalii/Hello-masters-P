@@ -1,1 +1,7 @@
 Hello :)
+<!doctype html>
+<html>
+<body>
+<p1>HELLO</p1>
+</body>
+</html>
