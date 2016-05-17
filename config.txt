@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 string name = "Pesho";
 int age = 21;
 Console.WriteLine("" + name + " " + age);
+=======
+name = Pesho ; age= 21; bool programmer = true;
+
+name = Ivan; lastname = Nikolov; age = 55;
+
+name = Vlado; age = over 9999; email = bg@abv.email
+
+name = Pesho ; age= 21; bool programmer = true;
+
+>>>>>>> origin/master
