@@ -3,6 +3,7 @@ WeDoNotNeedConfigFile
 
 string name = "Pesho";
 int age = 88;
-Console.WriteLine("" + name + " " + age);
+Console.WriteLine("" + name + " " + age + "years");
 
 new line
+jdhirdufhypihyt
