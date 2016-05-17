@@ -1,3 +1,5 @@
 name = Pesho ; age= 21; bool programmer = true;
 
 name = Ivan; lastname = Nikolov; age = 55;
+
+name = Vlado; age = over 9999; email = bg@abv.email
