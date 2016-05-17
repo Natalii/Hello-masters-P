@@ -3,10 +3,14 @@ Hello :)
 <!doctype html>
 <html>
 <body>
-<p1>HELLO</p1>
+<p1>OLLEH</p1>
 <p2>How'r u doin'?</p2>
 </body>
 </html>
+<<<<<<< HEAD
 =======
 Hello :)
 >>>>>>> parent of f274621... Changes to txt file
+=======
+<<<<<<< HEAD
+>>>>>>> origin/master
