@@ -1,1 +1,3 @@
 name = Pesho ; age= 21; bool programmer = true;
+
+name = Ivan; lastname = Nikolov; age = 55;
