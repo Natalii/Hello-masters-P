@@ -3,7 +3,7 @@ WeDoNotNeedConfigFile
 
 string name = "Pesho";
 int age = over 9999;
-Console.WriteLine("" + name + " " + age);
+Console.WriteLine("" + name + " " + age+"years");
 
 
 luifgiudgfia;er
