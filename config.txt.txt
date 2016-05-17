@@ -1,2 +1,0 @@
-name = Pesho
-lastname = Ivanov
