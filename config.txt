@@ -2,6 +2,6 @@
 WeDoNotNeedConfigFile
 
 string name = "Pesho";
-int age = 21;
+int age = 88;
 Console.WriteLine("" + name + " " + age);
 
