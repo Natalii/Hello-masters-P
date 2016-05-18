@@ -2,16 +2,8 @@
 WeDoNotNeedConfigFile
 
 string name = "Pesho";
-<<<<<<< HEAD
 int age = 88;
 Console.WriteLine("" + name + " " + age + "years");
 
-new line
-jdhirdufhypihyt
-=======
-int age = over 9999;
-Console.WriteLine("" + name + " " + age+"years");
-
-cfgfchgjhg
 
 
